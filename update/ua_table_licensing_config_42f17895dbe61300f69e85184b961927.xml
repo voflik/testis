@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_189996_testis_main</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-06 05:52:41</sys_created_on>
+        <sys_id>42f17895dbe61300f69e85184b961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_189996_testis_main</sys_name>
+        <sys_package display_value="testis" source="x_189996_testis">e8aae051dbe61300f69e85184b961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testis">e8aae051dbe61300f69e85184b961957</sys_scope>
+        <sys_update_name>ua_table_licensing_config_42f17895dbe61300f69e85184b961927</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-06 05:52:41</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

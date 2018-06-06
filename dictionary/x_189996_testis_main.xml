@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Main" max_length="40" name="x_189996_testis_main" type="collection">
+        <element label="Condition" max_length="4000" name="condition" type="conditions"/>
+        <element label="Name" max_length="70" name="name" type="string"/>
+        <element label="Rule" max_length="8000" name="rule" type="script"/>
+    </element>
+</database>
